@@ -1,0 +1,4 @@
+--patch-module
+DemineurProject=_
+--add-reads
+DemineurProject=ALL-UNNAMED
